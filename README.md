@@ -1,2 +1,4 @@
 # auto-compleated-by-LSTM
-auto complete sentence by using LSTM
+simple autocomplete by using tokenize word and using LSTM for predicting next words
+
+##LSTM
